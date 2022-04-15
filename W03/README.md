@@ -1,4 +1,4 @@
-# Workshop #3: Computations: Logic (sequence, selection, iteration, flags, nesting)
+# Workshop #3:Computations: Logic (sequence, selection, iteration, flags, nesting)
 
 This is third work that I have done using C language in First semester at Seneca college.
 
