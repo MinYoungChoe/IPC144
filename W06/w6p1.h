@@ -2,13 +2,12 @@
 #define MAX_PRD 3
 #define SERVING 64
 
-
 struct CatFoodInfo
     {
         int sku;
         double price;
-		int calorie;
-		double weight;
+	int calorie;
+	double weight;
     };
 
 int getIntPositive(int* intValue);
