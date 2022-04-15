@@ -1,10 +1,3 @@
-/*
- Name : Min Young Choe
- Id: 133607218
- Email : mcho@senecacollege.ca
- Section: ZBB
- */
-
 #include <stdio.h>
 
 int main() {
